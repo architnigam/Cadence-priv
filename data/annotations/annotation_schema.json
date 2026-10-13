@@ -1,0 +1,16 @@
+{
+  "document_id": "",
+  "location": {
+    "page_or_slide": null,
+    "block_id": "",
+    "bbox": null
+  },
+  "entity_type": "",
+  "start": null,
+  "end": null,
+  "source_kind": "body|table|narrative|image|header|footer|notes",
+  "image_only": false,
+  "reviewer": "",
+  "adjudication_status": "pending",
+  "notes": ""
+}

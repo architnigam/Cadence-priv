@@ -1,0 +1,22 @@
+{
+  "status": "proposed",
+  "types": [
+    "PERSON",
+    "EMAIL",
+    "PHONE",
+    "EMPLOYEE_ID",
+    "DIRECTOR_ID",
+    "VENDOR_PERSON_ID",
+    "DATE_OF_BIRTH",
+    "HOME_ADDRESS",
+    "NATIONAL_ID",
+    "TAX_ID",
+    "PASSPORT",
+    "BANK_ACCOUNT",
+    "PAYMENT_CARD",
+    "PARTIAL_IDENTIFIER",
+    "PHOTOGRAPH_REGION",
+    "SIGNATURE_REGION"
+  ],
+  "notes": "Dates and addresses require personal context. Visual regions need separate image handling. Confirm scope before implementation."
+}

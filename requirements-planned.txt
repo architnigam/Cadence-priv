@@ -1,0 +1,8 @@
+# Candidate dependencies; choose versions and OCR/model assets during implementation.
+python-docx
+python-pptx
+pypdf
+Pillow
+reportlab
+# Consider: a local OCR engine plus layout support, local NER/PII recognizers,
+# a local UI framework, and pytest. Not installed or pinned by this scaffold.

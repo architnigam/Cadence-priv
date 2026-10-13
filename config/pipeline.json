@@ -1,0 +1,12 @@
+{
+  "status": "draft_not_implemented",
+  "formats": [
+    "pdf",
+    "pptx",
+    "docx"
+  ],
+  "processing": "local",
+  "ocr": "required_for_scans_and_embedded_images",
+  "failure_policy": "quarantine",
+  "downstream_input": "verified_sanitized_text_only"
+}
